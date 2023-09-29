@@ -1,3 +1,5 @@
+#Florence King'ori
+#SCT211-0063/2022
 name =input("Please input name:")
 print("Hello", name ,"\nYour calculator is ready")
 value1 =float( input("Input value 1: "))
