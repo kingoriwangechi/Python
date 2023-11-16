@@ -1,3 +1,5 @@
+#FLORENCE KING'ORI
+#SCT211-0063/2022
 class Calculator:
     def __init__(self,num1,num2):
         self.num1 = num1
